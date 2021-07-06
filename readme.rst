@@ -42,6 +42,16 @@ Installation
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
+Extrak file yang sudah di download ke folder htdocs xampp.
+
+Kemudian buka xampp dan aktifkan apache dan mysql.
+
+Kemudian export file db_risis.sql.
+
+Kemudian setting file yang sudah di extrak cari folder config dan file config.
+
+setelah ketemu file config, ubah urlnya di sesuikan dengan nama folder dari file zip yang sudah di extrak ke dalam folder htdocs.
+
 *******
 License
 *******
@@ -68,3 +78,8 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+**************
+Created By
+**************
+Adi Murdayani
