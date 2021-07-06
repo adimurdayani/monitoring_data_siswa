@@ -46,9 +46,9 @@ Extrak file yang sudah di download ke folder htdocs xampp.
 
 Kemudian buka xampp dan aktifkan apache dan mysql.
 
-Kemudian export file db_risis.sql.
+Kemudian ketik url localhost/phpmyadmin/ dan buat sebuah database baru dengan nama db_risis. Selanjutnya, export file db_risis.sql yang ada pada file yang telah di download
 
-Kemudian setting file yang sudah di extrak cari folder config dan file config.
+Kemudian setting file yang sudah di extrak dengan cara cari folder config dan file config.
 
 setelah ketemu file config, ubah urlnya di sesuikan dengan nama folder dari file zip yang sudah di extrak ke dalam folder htdocs.
 
